@@ -1,0 +1,21 @@
+C:\Users\yakup\source\repos\kütüphane otomasyonu\kütüphane otomasyonu\bin\Debug\kütüphane otomasyonu.exe.config
+C:\Users\yakup\source\repos\kütüphane otomasyonu\kütüphane otomasyonu\bin\Debug\kütüphane otomasyonu.exe
+C:\Users\yakup\source\repos\kütüphane otomasyonu\kütüphane otomasyonu\bin\Debug\kütüphane otomasyonu.pdb
+C:\Users\yakup\source\repos\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane otomasyonu.csprojAssemblyReference.cache
+C:\Users\yakup\source\repos\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.Properties.Resources.resources
+C:\Users\yakup\source\repos\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane otomasyonu.csproj.GenerateResource.cache
+C:\Users\yakup\source\repos\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\yakup\source\repos\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane otomasyonu.exe
+C:\Users\yakup\source\repos\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane otomasyonu.pdb
+C:\Users\yakup\source\repos\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.anamenu.resources
+C:\Users\yakup\source\repos\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.ogrenciekle.resources
+C:\Users\yakup\source\repos\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.kitapekle.resources
+C:\Users\yakup\source\repos\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.kitapsil.resources
+C:\Users\yakup\source\repos\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.ogrenciduzenle.resources
+C:\Users\yakup\source\repos\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.ogrencilistele.resources
+C:\Users\yakup\source\repos\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.ogrencisil.resources
+C:\Users\yakup\source\repos\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.kitapduzenle.resources
+C:\Users\yakup\source\repos\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.kitaplistele.resources
+C:\Users\yakup\source\repos\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.kitapver.resources
+C:\Users\yakup\source\repos\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.geckalankitaplar.resources
+C:\Users\yakup\source\repos\kütüphane otomasyonu\kütüphane otomasyonu\obj\Debug\kütüphane_otomasyonu.kullanici.resources
